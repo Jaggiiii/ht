@@ -1,0 +1,35 @@
+.ok{
+  background-color:  #6f42c1;
+  width : 35%;
+  height: 446px;
+  padding: 1em;
+  margin-top: 30px;
+  border-radius: 1em;
+}
+h1{
+  color: white;
+}
+.hi{
+  color: violet;
+}
+p{
+  color: grey;
+  padding: 10px;
+  width: 102%
+}
+.screen{
+  margin-top: 30px;
+  width: 30%;
+  border-radius: 1em;
+  height: 446px;
+}
+.gap{
+  margin-right: 2.7em;
+  color: white;
+    padding:4px;
+}
+.j{
+  background-color: black;
+  background-size: cover;
+  padding:3em;
+}
